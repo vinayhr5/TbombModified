@@ -53,3 +53,6 @@ Once completed, SMS bombing begins automatically.
 
 ------------------------------------------------------------------------------
 
+Contributors
+Developer: SpeedX
+Contributors: t0xic0der, scpketer, Stefan
