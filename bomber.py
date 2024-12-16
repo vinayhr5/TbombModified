@@ -74,7 +74,7 @@ def pretty_print(cc, target_numbers, success, failed):
 
 def get_phone_info():
     cc = "91"  # Always using country code 91
-    target_numbers = ["7073787668","6376290037"]  # Hardcoded phone numbers
+    target_numbers = ["9123456789","9234567888"]  # Hardcoded phone numbers
     return (cc, target_numbers)
 
 def call_bombing():
