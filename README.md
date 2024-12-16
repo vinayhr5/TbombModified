@@ -35,7 +35,7 @@ A stable internet connection.
 Installation
 
 Clone the repository:
-git clone https://github.com/YourRepoName/BombingTool.git
+git clone https://github.com/vinayhr5/TbombModified.git
 cd BombingTool
 
 Install dependencies:
